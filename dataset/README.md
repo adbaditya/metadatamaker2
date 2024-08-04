@@ -1,4 +1,6 @@
 # MetadataMaker
+**The pre-2023 development history of this page can be found in the [DataSet branch](https://github.com/UIUCLibrary/metadata-maker/tree/DataSet) of the repo**
+
 Metadata Maker is a web application that is used for creating *good enough* quality metadata in four different formats depending on the needs of the system to which the metadata will be ingested. A live version of the tool hosted by the University of Illinois can be found at http://quest.library.illinois.edu/marcmaker/
 
 ## Editing institution information
@@ -35,8 +37,6 @@ The file structure has been altered, placing the javascript files in subdirector
 
 The information for the organization creating the record can be altered via the url. See the "Editing institution information" section above for more details.
 
-**03-14-2023:** Folded the many branches into the default branch to make updating and deploying easier. The files from the other branches lack the development history, but the README for each page includes a link to the corresponding branch, which stores that history up until today.
-
 ## Contact info
 
-Comments and questions can be directed to Deren Kudeki at Myung-Ja Han at mhan3@illinois.edu
+Comments and questions can be directed to Deren Kudeki at dkudeki@illinois.edu and Myung-Ja Han at mhan3@illinois.edu
